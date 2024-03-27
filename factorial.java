@@ -17,7 +17,7 @@ public class factorial{
             num2 *= num;
             num --;
         }
-        System.out.println(num2);
+        System.out.println("The factorial is" + num2);
         input.close();
     }
 }
